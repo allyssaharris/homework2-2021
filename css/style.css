@@ -1,11 +1,11 @@
 body {
     background-color: #000000;
     color: #FFFFFF;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Times New Roman", Times;
 }
 
 h1{ 
-    font-size: 63px;
+    font-size: 64px;
      text-align: center; 
      padding: 10px;
 }
@@ -19,14 +19,14 @@ h2{
 }
 
 
-p{ font: size 24px; 
+p{ font-size:  24px; 
     padding: 15px;
 
 }
 
 
 img{
-    width: 500px ;
+    width: 550px ;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -78,4 +78,5 @@ div{
 footer{
     padding-bottom: 10px;
     padding-right: 10px;
+    text-align: left;
 }
