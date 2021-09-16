@@ -75,10 +75,12 @@ div{
    background-color: #00FF00; 
    text-align: left;
 }
-footer{
-    text-align: left;
+footer p{
+
+     text-align: left;
     padding-right: 10px;
     padding-bottom: 10px;
+    
     
     
 }
